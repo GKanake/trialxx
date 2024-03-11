@@ -124,7 +124,7 @@
  "data": {
   "name": "Player468"
  },
- "height": "100%",
+ "height": "auto",
  "class": "Player",
  "paddingBottom": 0,
  "scrollBarColor": "#000000",
