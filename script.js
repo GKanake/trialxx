@@ -113,7 +113,7 @@
  "paddingRight": 0,
  "minWidth": 20,
  "borderRadius": 0,
- "desktopMipmappingEnabled": false,
+ "desktopMipmappingEnabled": true,
  "gap": 10,
  "overflow": "visible",
  "shadow": false,
