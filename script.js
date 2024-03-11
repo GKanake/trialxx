@@ -1,6 +1,6 @@
 (function(){
     var script = {
- "layout": "relative",
+ "layout": "absolute",
  "scrollBarMargin": 2,
  "id": "rootPlayer",
  "borderSize": 0,
